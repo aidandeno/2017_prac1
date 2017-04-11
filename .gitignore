@@ -1,4 +1,4 @@
-####### JAVA ###########
+###### JAVA ###########
 
 *.class
 
@@ -85,3 +85,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+*.iml
+*.xml
+*.DS_Store
